@@ -8,7 +8,7 @@
 
     ## Результати
     ```
-    Size       Case            Algorithm       Time (seconds) 
+Size       Case            Algorithm       Time (seconds) 
 -------------------------------------------------------
 100        random          Insertion Sort  0.000176       
 100        random          Merge Sort      0.000107       
